@@ -7,6 +7,7 @@
 <p>5.) npm install</p>
 <p>6.) npm run dev</p>
 <p>7.) php artisan serve</p>
+<p>8.) Run php artisan storage:link   (for image directoy symboliclink)</p>
 
 
 ##  THANKS
